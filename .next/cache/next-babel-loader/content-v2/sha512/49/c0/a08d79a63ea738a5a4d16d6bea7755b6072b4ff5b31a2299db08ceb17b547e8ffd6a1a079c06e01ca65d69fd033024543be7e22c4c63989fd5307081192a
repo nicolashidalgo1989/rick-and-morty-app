@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default } from './Card';","map":{"version":3,"sources":["/Users/nicolas/Documents/web/react/rick-and-morty-app/src/components/organisms/Card/index.js"],"names":["default"],"mappings":"AAAA,SAAQA,OAAR,QAAsB,QAAtB","sourcesContent":["export {default} from './Card';\n"]},"metadata":{},"sourceType":"module"}
