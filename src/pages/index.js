@@ -1,14 +1,23 @@
-import Template from '../components/templates/Template';
-import Search from '../components/molecules/Search';
-import List from '../components/organisms/List'; 
+import 'bootstrap/dist/css/bootstrap.min.css';
+import Template from '../templates/Template';
+import Logo from '../components/Logo';
+import Search from '../components/Search';
+import List from '../components/List'; 
 
-export default function Index() {
+const Index = () => {
+
     return (
 
-        <Template> 
-            <Search/> 
-            <List/> 
-        </Template> 
+        <>
+            <Template> 
+                <Logo />
+                <Search/> 
+                <List/> 
+            </Template> 
+        </>
 
     )
-}
+    
+} 
+
+export default Index;
