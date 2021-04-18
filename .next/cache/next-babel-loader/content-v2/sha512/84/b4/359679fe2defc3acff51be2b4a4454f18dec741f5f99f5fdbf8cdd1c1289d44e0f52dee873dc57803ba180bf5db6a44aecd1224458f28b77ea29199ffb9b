@@ -1,1 +1,0 @@
-{"ast":null,"code":"export { default } from './Search';","map":{"version":3,"sources":["/Users/nicolas/Documents/web/react/rick-and-morty-app/src/components/molecules/Search/index.js"],"names":["default"],"mappings":"AAAA,SAAQA,OAAR,QAAsB,UAAtB","sourcesContent":["export {default} from './Search';\n"]},"metadata":{},"sourceType":"module"}

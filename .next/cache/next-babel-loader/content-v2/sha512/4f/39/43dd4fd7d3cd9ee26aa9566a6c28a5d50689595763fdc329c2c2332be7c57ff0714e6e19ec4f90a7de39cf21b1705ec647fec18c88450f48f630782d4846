@@ -1,1 +1,0 @@
-{"ast":null,"code":"export { default } from './List';","map":{"version":3,"sources":["/Users/nicolas/Documents/web/react/rick-and-morty-app/src/components/organisms/List/index.js"],"names":["default"],"mappings":"AAAA,SAASA,OAAT,QAAwB,QAAxB","sourcesContent":["export { default } from './List';\n"]},"metadata":{},"sourceType":"module"}
